@@ -5,4 +5,4 @@ user_input = input("Enter a word: ")
 result = user_input[::2]
 
 #print result
-
+print("Characters at even index numbers:", result)
